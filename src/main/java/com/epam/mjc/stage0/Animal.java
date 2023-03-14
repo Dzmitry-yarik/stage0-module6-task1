@@ -53,7 +53,7 @@ public class Animal {
   
    public String furs(boolean furs) {
         String fur;
-        if (fur == true) {
+        if (furs == true) {
             fur = " a ";
         } else {
             fur = " no ";
